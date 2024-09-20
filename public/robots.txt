@@ -1,4 +1,0 @@
-Sitemap: https://jonathandequeker.be/sitemap.xml
-
-User-agent:*
- Disallow:
